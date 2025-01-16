@@ -2,7 +2,6 @@ use std::io;
 
 use ratzilla::ratatui::layout::{Constraint, Flex, Layout, Margin, Offset, Rect};
 use ratzilla::ratatui::style::{Style, Stylize};
-use ratzilla::ratatui::text;
 use ratzilla::ratatui::widgets::{BorderType, Wrap};
 use ratzilla::ratatui::{
     layout::Alignment,
